@@ -1,5 +1,7 @@
 package com.javabasico.basico01;
-
+/*
+ * http://www.slideshare.net/loianeg/curso-java-basico-exercicios-aulas-16-17
+ */
 public class LoopWhile {
 
 	public static void main(String[] args) {
