@@ -20,7 +20,7 @@ public class LoopFOR_Each {
 		
 		//for each
 		for (int nota : notas) {
-			System.out.println("numeros randômicos: " + nota);
+			System.out.println("Números randômicos: " + nota);
 		}
 		
 		/*--------------------------------------------------------------------------------------
