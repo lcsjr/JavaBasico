@@ -3,7 +3,7 @@ package com.javabasico.basico01;
 /*
  * Exercícios: http://www.slideshare.net/loianeg/curso-java-basico-exercicios-aula-20.
  */
-public class ArrayMatriz {
+public class ArrayMultidimensional {
 
 	public static void main(String[] args) {
 		
