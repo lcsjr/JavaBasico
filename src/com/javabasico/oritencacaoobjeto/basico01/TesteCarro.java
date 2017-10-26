@@ -1,5 +1,8 @@
 package com.javabasico.oritencacaoobjeto.basico01;
 
+/*
+ * Exercícios: https://www.slideshare.net/loianeg/curso-java-basico-exercicios-aula-24
+ */
 public class TesteCarro {
 
 	public static void main(String[] args) {
