@@ -1,5 +1,7 @@
 package com.javabasico.orientacaoobjeto.modificador_static;
-
+/* ================================================================================================
+ * Exercícios: http://www.slideshare.net/loianeg/curso-java-basico-exercicios-aula-34
+ ================================================================================================*/
 public class TesteCalculadora {
 
 	public static void main(String[] args) {
