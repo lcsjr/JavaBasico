@@ -1,4 +1,4 @@
-package com.javabasico.orientacaoobjeto.super_classe;
+package com.javabasico.orientacaoobjeto.heranca.super_classe;
 
 public class Cadastro {
 	

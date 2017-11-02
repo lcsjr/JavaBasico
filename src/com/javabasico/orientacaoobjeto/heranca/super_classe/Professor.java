@@ -1,4 +1,4 @@
-package com.javabasico.orientacaoobjeto.super_classe;
+package com.javabasico.orientacaoobjeto.heranca.super_classe;
 
 /*==================================================================================================================
  * EXTENDS: indica que esta classe recebe como herança uma outra classe
